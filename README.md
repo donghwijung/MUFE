@@ -3,7 +3,7 @@ Donghwi Jung, Heungmin Park, Jinwoo Lee, Kyunghyun Kim, Giulia Nespoli, and Seon
 ## Description
 Multi-floor point cloud mapping including the elevator.
 ## Dataset
-The link for dataset is https://drive.google.com/drive/folders/189B0eBK0MVQ9wGlaF7IceNS17MB1W0zq?usp=sharing
+The link for dataset is https://mysnu-my.sharepoint.com/:f:/g/personal/donghwijung_seoul_ac_kr/EpA4YOKrFA5Chm7e0A5LidoBkZCXg9MhcbL_doTs-7PHBA?e=rMSnRA
 ```
 /velydone_points 10 Hz, Velodyne VLP 16
 /imu/data 400 Hz, Xsens 680G
